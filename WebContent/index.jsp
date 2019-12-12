@@ -65,6 +65,7 @@
 					<div class="clear"></div>
 				</div>
 			</div>
+			<!-- 我要提交  -->
 			<div class="slider">
 				<div class="slider-wrapper theme-default">
 					<div id="slider" class="nivoSlider">
